@@ -71,7 +71,7 @@
         "certificateInfos": [
             {
                 "type": "email",       // 인증 방법(고정)
-                "checkCode": "900358", // 이메일로 전송된 인증코드 6자리
+                "checkCode": "", // 이메일로 전송된 인증코드 6자리
                 "token": "",           // 2단계의 인증 토큰 
                 "certificate": true    // (고정)
             }
